@@ -1,2 +1,2 @@
 # Datebase.Java
-Created a storage datebase
+Created a storage database using Java SQL
